@@ -2,4 +2,8 @@
 EVENT2
 EVENT3
 EVENT4
+<<<<<<< HEAD
 EVENT6
+=======
+EVENT5
+>>>>>>> 87277ffce34d33e9cddf6fcb51dda46465308c88
